@@ -16,7 +16,7 @@ This tool sends ICMP echo requests to each IP address in a specified range (CIDR
 ✅ Scans the entire subnet and pings all IPs individually  
 ✅ Displays active (reachable) IPs in a clean output  
 ✅ Fast, CLI-based and beginner-friendly implementation  
-✅ Error handling for unreachable hosts and exceptions
+✅ Error handling for unreachable hosts and exceptions 
 
 ---
 
