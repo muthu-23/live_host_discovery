@@ -61,8 +61,10 @@ Host 192.168.1.15 is UP Host 192.168.1.22 is UP
 ## 📁 File Structure
 
 live_host_discovery/
-  ├── live_host_discovery.py     
-  └── README.md                  
+
+  ├── live_host_discovery.py    # main script 
+ 
+  └── README.md                 # project documentation           
 
 ---
 
