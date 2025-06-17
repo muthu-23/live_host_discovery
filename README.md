@@ -69,10 +69,24 @@ live_host_discovery/
 ## 👨‍💻 Author
 
 *Muthusamy T*  
-B.Sc Cybersecurity Student  
+B.Sc computer science (Cybersecurity) Student  
 Vels University, Chennai (Pallavaram)  
 GitHub: [muthu-23]
+
+---
 
 ⚠ Legal & Ethical Notice
 
 This tool is intended *only for educational or authorized network use. Do **not* scan public or unauthorized networks without proper consent. Unauthorized use may violate privacy laws or institutional policies.
+
+---
+
+## 🤝 Contributions
+
+Contributions, suggestions, or improvements are welcome. Please open an issue or submit a pull request.
+
+---
+
+## ⭐ Star This Repository
+
+If you found this helpful or educational, consider giving it a ⭐ to support this project and share with others!
